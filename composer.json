@@ -1,0 +1,12 @@
+{
+    "name": "xitroff/oci-s3-php-pre-signed-post",
+    "authors": [
+        {
+            "name": "Alexander Hitrov",
+            "email": "github.com@hitrov.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.173"
+    }
+}
